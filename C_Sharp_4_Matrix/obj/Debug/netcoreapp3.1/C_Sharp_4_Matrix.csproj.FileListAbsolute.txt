@@ -1,0 +1,12 @@
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\obj\Debug\netcoreapp3.1\C_Sharp_4_Matrix.csproj.CoreCompileInputs.cache
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\obj\Debug\netcoreapp3.1\C_Sharp_4_Matrix.AssemblyInfoInputs.cache
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\obj\Debug\netcoreapp3.1\C_Sharp_4_Matrix.AssemblyInfo.cs
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\bin\Debug\netcoreapp3.1\C_Sharp_4_Matrix.exe
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\bin\Debug\netcoreapp3.1\C_Sharp_4_Matrix.deps.json
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\bin\Debug\netcoreapp3.1\C_Sharp_4_Matrix.runtimeconfig.json
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\bin\Debug\netcoreapp3.1\C_Sharp_4_Matrix.runtimeconfig.dev.json
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\bin\Debug\netcoreapp3.1\C_Sharp_4_Matrix.dll
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\bin\Debug\netcoreapp3.1\C_Sharp_4_Matrix.pdb
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\obj\Debug\netcoreapp3.1\C_Sharp_4_Matrix.dll
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\obj\Debug\netcoreapp3.1\C_Sharp_4_Matrix.pdb
+E:\_VisualStudioProjects\C_Sharp_4\C_Sharp_4_Matrix\C_Sharp_4_Matrix\obj\Debug\netcoreapp3.1\C_Sharp_4_Matrix.genruntimeconfig.cache
